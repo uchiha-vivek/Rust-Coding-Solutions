@@ -8,5 +8,4 @@ fn main() {
     stack.push(20);
     stack.push(30);
     print!("Top: {:?}",stack.peek());
-
 }
